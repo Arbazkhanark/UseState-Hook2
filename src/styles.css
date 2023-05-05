@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: skyblue;
+  text-align: center;
+}
+
+span {
+  background-color: white;
+  padding: 10px;
+  font-size: xx-large;
+  font-weight: 900;
+  border-radius: 5px;
+}
+
+button {
+  margin: 30px;
+  padding: 5px;
+  width: 200px;
+  font-size: x-large;
+  font-weight: 900;
+  background-color: rgba(42, 163, 62, 0.61);
+  color: white;
+}
